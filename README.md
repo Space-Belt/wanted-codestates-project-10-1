@@ -5,7 +5,7 @@
 ### 📎 &nbsp; [과제링크](https://gallant-shockley-d3e212.netlify.app/)
 
 <div align="center">
-<img width="300px" src=""/>
+<img width="600px" src="https://user-images.githubusercontent.com/87487161/159151814-8d4b4ea7-cebc-4175-9eb8-a3fb832fceb6.gif"/>
 </div>
 
 <br />
@@ -92,21 +92,23 @@
 </details>
 <details>
   <summary>복지호</summary>
-  <ul>
-   <li>이슈목록 카드 컴포넌트를 이용하여 이슈목록 페이지구성</li>
-      <li> 페이지 네이션 기능구현, 한페이지당 이슈카드 6개</li>
-  </ul>
+ 
+  - 이슈목록 카드 컴포넌트를 이용하여 이슈목록 페이지 구성
+  - 페이지네이션 기능 구현 (페이지당 이슈카드 6개 보이기)
+    - 첫 번째, 마지막 페이지에서 prev/next 버튼 숨김
+ 
 </details>
 <details>
   <summary>우혁주</summary>
     <ul>
       <li>레포지토리 선택시 저장/삭제 기능 구현 (로컬스토리지에 데이터 저장/삭제) </li>
+     <li>저장 개수 지정, 저장 레포 저장 불가 구현</li>
     </ul>
 </details>
 <details>
   <summary>전용태</summary>
   <ul>
-    <li>검색결과로 저장된 로컬스토리지 데이터를 확용하여 결과리스트 구현</li>
+    <li>검색결과로 저장된 로컬스토리지 데이터를 활용하여 결과리스트 구현 </li>
       <li>무한스크롤을 이용한 결과리스트 </li>
   </ul>
 </details>
